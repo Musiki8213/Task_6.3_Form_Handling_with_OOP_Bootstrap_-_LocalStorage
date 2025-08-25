@@ -26,6 +26,9 @@ form {
 }
 
 
+.form-control{
+    width: 400px;
+}
 
 button.btn-primary {
     background-color: #4f46e5;
